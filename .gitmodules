@@ -1,0 +1,6 @@
+[submodule "my_plugins/--force"]
+	path = my_plugins/--force
+	url = https://github.com/sainnhe/everforest.git
+[submodule "my_plugins/everforest"]
+	path = my_plugins/everforest
+	url = https://github.com/sainnhe/everforest.git
