@@ -10,7 +10,7 @@ set background=dark
 " Set contrast
 " This config msut be before `colorscheme everforest`
 " Use 'hard', 'medium', 'soft'
-let g:everforest_background = 'soft'
+let g:everforest_background = 'hard'
 
 " for better performance
 let g:everforest_better_performance = 1
